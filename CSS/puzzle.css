@@ -4,7 +4,7 @@
 }
 
 .contenedor {
- 
+  background-image: url("../images/sea.jpg");
   background-color: brown;
   width: 300px;
   height: 300px;
