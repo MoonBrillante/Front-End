@@ -1,2 +1,2 @@
 # Front-End
-This is pic folder.
+This is front end practice projects.
