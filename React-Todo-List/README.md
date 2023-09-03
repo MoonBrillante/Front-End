@@ -16,11 +16,9 @@ npm create vite@latest project-name
 cd project-name
 
 npm install
-
 ```
 ## Utilización
 Iniciar  el servidor developmente:
 ```
 npm run dev
-
 ```
