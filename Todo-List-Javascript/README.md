@@ -1,7 +1,7 @@
 # To-Do List Project
 
 This is a simple To-Do List project designed for recording and managing your task list.
-![Screenshot](pokeapi-demo.JPG)
+![Screenshot](todolist2.jpg)
 
 ## Features
 
