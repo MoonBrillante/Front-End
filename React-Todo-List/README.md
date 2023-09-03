@@ -1,6 +1,6 @@
 ## React Todo List App
  Una sencilla aplicación React que te permite gestionar tus tareas diarias. Puedes añadir, editar, borrar y ver tus tareas cómodamente.
-![Screenshot](react-todo.jpg)
+![Screenshot](react-todo.jpeg)
 
 ## Características
 Añade nuevas tareas a tu lista.
