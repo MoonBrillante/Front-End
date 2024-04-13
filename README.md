@@ -1,2 +1,2 @@
 # Front-End
-This is front end practice projects.
+This is my front end practice projects.
